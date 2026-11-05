@@ -1,0 +1,49 @@
+# GMA Optimization Checklist [Make A Copy] - Optimization Checklist
+
+*Converted from `PPC Co Pilot/Tools & Templates/GMA Optimization Checklist [Make A Copy] - Optimization Checklist.csv`*
+
+| Action Item Name | Action Item Description | Last Change | Notes |
+| --- | --- | --- | --- |
+| Daily |  |  |  |
+| Check for Anomalies | Check for any account or campaign anomalies |  |  |
+| Check Budget Pacing | Check monthly budget trend - are we on track to spend their budget? |  |  |
+| Weekly |  |  |  |
+| Review Weekly Performance | Check weekly performance compared to historical averages and make sure performance is on track and there are no anomalies in the last week. |  |  |
+| Check Budget Allocation | Look for budget limited campaigns - is the budget being allocated across campaigns to maximize performance at monthly budget cap? |  |  |
+| Add New Keywords | Review search query reports and add new keywords with sufficient volume |  |  |
+| Add New Negatives | Review search query reports and add new negative keywords |  |  |
+| Review Bid Strategies | Review campaign bid strategies and adjust if needed. |  |  |
+| Review Shopping Feed/Merchant Center | Check feed for any errors. Check feed for disapprovals. |  |  |
+| Review IS% of Top Campaigns | Check for any major movements in IS% |  |  |
+| Biweekly |  |  |  |
+| Check Auction Insights | Look for new competitors or any changes in competitors. |  |  |
+| Review Monthly Tests | Review any on-going tests and make any necessary adjustments |  |  |
+| Review Ad Tests | Develop new ad tests and evaluate the performance of existing ones. |  |  |
+| Monthly |  |  |  |
+| Google Recommendations | Check and dismiss any Google recommendations to improve Optimization Score (this prevents Google reps contacting clients as well) |  |  |
+| Quality Score | Check Quality Score fluctuations |  |  |
+| Monthly Performance | Check Monthly performance compared to previous month and previous year |  |  |
+| Campaign Structures | Review campaign structures - does it make sense to split any or combine any? |  |  |
+| Top Sellers | Identify top sellers in PMax or Shopping campaigns |  |  |
+| Poor Performers | Identify poor performers in PMax or Shopping campaigns - should poor performers be excluded from PMax and tested in Standard Shopping? |  |  |
+| DSA Campaigns | Review DSA campaigns |  |  |
+| DSA Targets | Review DSA auto targets |  |  |
+| GA4 Account | Review GA4 Account |  |  |
+| Keyword Research | Conduct keyword research to fill any missing gaps |  |  |
+| Review PMax Products and Insights | Analyze the performance of PMax products and review insights tab. |  |  |
+| Review Landing Pages | Review landing page performance and load times |  |  |
+| Review Scripts and Auto Rules | Review scripts and auto rules. Do they still make sense? Are they functioning properlly? |  |  |
+| Quarterly |  |  |  |
+| Review Account Strategy | Evaluate what worked and what didn't |  |  |
+| Plan Next 90 Days | Develop a plan for the next 3 month sprint |  |  |
+| Review Devices | Analyze device performance |  |  |
+| Review Search Partners | Assess search partner effectiveness |  |  |
+| Review Ad Schedule | Evaluate ad scheduling |  |  |
+| Review Geo-Targeting | Analyze geographic targeting |  |  |
+| Review Audiences | Evaluate audience targeting & update audience lists |  |  |
+| Review Ad Assets | Check if all ad assets are applied and still relevant |  |  |
+| Look for Expansion Opportunities | Compare account vs website and identify potential categories or products for expansion |  |  |
+| Review Competitors | Review competiors and conduct comeptitor gap analysis |  |  |
+| Decide on New Tests | Determine what has not been tested in the last 90 days |  |  |
+| Feed Optimization | Review the Shopping feed for any optimization opportunities |  |  |
+| Update Remarketing Lists | Review and update any remarketing lists including Customer Match lists |  |  |
