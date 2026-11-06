@@ -1,0 +1,105 @@
+# Google Ads Bidding Strategies [2025]
+
+*Converted from `PPC Co Pilot/Ecom Accelerator/9. Optimization General/Google Ads Bidding Strategies [2025].rtf`*
+
+**Foundation**
+
+Bidding won’t fix a broken account or strategy.
+
+Proper account structure, offer, conversion tracking, keywords, website ux, and budget is more important than your bids.
+
+Bidding just helps you dial in the math to hit your goals (usually profit).
+
+**The Ultimate Goal of Bidding**
+
+The ultimate goal of bidding in 2025 is to get your campaign(s) to 30+ conversions in a 30 day timeframe to start utilizing Smart Bidding strategies.
+
+I remember the days of manually bid changing keywords every day. I also remember when Google first launched Smart Bidding and it was complete trash.
+
+Fast forward to 2025 and if you aren’t using Smart Bidding you are losing. When you have a sound account structure and conversion tracking Smart Bidding will always beat Manual bidding.
+
+<aside>
+💡 You don’t have to hit 30 conversions per month to successfully make Google Ads work but you will be limited and the game of Google Ads will harder to play. We have many smaller clients or clients in B2B with lower conversion volume campaigns that still do well - it just took a lot of trial and error to get there when working with lower conversion volume.
+
+</aside>
+
+**Bidding For A Brand New Account**
+
+**Bidding for a brand new account**
+
+If you are launching a brand new account with no historical data then your only goal is to start getting conversions. **Forget profit - you won’t be profitable!**
+
+You need to invest at least 90 days minimum into trying to dial your account.
+
+A win for a brand new account is after 90 days you have enough data to determine you’re confident you can make Google Ads profitable for you in the long run.
+
+With that said, you can’t use Smart Bidding from the start since there is no conversion data for the Smart Bidding to utilize so it won’t do much.
+
+Start with Manual CPC bidding (enhanced conversions off) or Max Clicks with a bid cap and work on getting conversion volume.
+
+**How to determine initial bid?**
+
+I think people over think this too much. There is no perfect starting bid. You just need to start “investing” in data.
+
+This also goes back to Foundation. You need to do [keyword research](https://growmyads.com/google-search/keyword-research/) first and understand how much money it is going to take to even bid on keywords in your space.
+
+If Google shows a keyword CPC is going to be $10 on the low end and $30 on the high end then start your bid somewhere in between and see what happens over the next day or two. Analyze the data and then make necessary bid changes (up or down) from there.
+
+**Do you even have the budget to make Google Ads work?**
+
+For example, if you’re budget is $1,000 per month and you’re a personal injury lawyer. You’re better off just donating that money to Google because that is exactly what you are going to do anyways.
+
+CPCs are $100+ in the personal injury space and $1,000 per month gets you a total of 10 or less clicks per month. So over 90 days you’ll get 30 clicks to work with and you’ll be left as clueless as you were when you started but $3,000 poorer.
+
+Remember I said your goal in the beginning is to get at least 30 conversions in a 30 day timeframe - even if that is unprofitable.
+
+**Bidding For An Existing Account**
+
+**Bidding for Campaigns in an existing account**
+
+You have data to work off of so keep this simple.
+
+If you’re at 30+ conversions in a campaign over the last 30 days you can start testing conversion based bid strategies like Max Conv. with tCPA cap or Max Conv. Value with tROAS cap.
+
+**What tCPA or tROAS cap should you set initially?**
+
+You can’t force Smart Bidding to make the impossible happen. You have to just work with it and “massage” it over time.
+
+**For example:**
+
+**Client:** Electrician
+**Goal:** $100 CPA
+**Campaign:** S | Electrician | General (this is targeting general electrician keywords)
+**Convs. Last 30 Days:** 50
+
+**CPA Last 30 Days:** $120
+
+**Current Bid Strategy:** Max Conversions with no CPA cap
+
+I have enough conversion volume over the last 30 days to start moving my bidding in the direction to hitting my overall goal of $100 CPA.
+
+However, my current 30 day average is $120 CPA. I can’t just set the bidding to Max Conv. with a tCPA cap of $100 and expect Google to magically start hitting that - it hasn’t actually hit $100 CPA consistently already yet.
+
+So I generally take the last 30 day average and set my tCPA to the average or -10% of the average to start.
+
+For this case I might start my tCPA at $120-$112.
+
+Then let the bidding run for a week or two and analyze the data. Are you satisfied with volume still and is CPA starting to trend down?
+
+If yes, then start nudging your CPA down in increments of 10-20%. Each time you make a bid change give at least a week or two to work itself out and then keep doing this until you are ultimately hitting your goal.
+
+**Bidding for Brand New Campaigns Inside Existing Accounts?**
+
+So you have an account that is already running with plenty of historical data but you are building out a brand new campaign.
+
+Can you just go straight to using Smart Bidding for this brand new campaign?
+
+Yes & No….
+
+If the campaign is bidding on keywords that you data on already from an existing campaign (DSA or other Search campaign) then technically you can start with Smart Bidding from the beginning and in most cases it can work out. Usually I recommend starting still with a Max Conv. or Max Conv. Value bid strategy for the first week or so with no cap just to see what the baseline Google gets since it will be using Account level data to help guide the bidding.
+
+**What about a brand new campaign for brand new keywords in an existing account?**
+
+Treat this like a brand new account, so start with Manual or Max Click until you get the conversion volume you need.
+
+Doesn’t matter if you have spent $100k on ads already if you are going to be targeting a brand new set of keywords you’ve never targeted in your account this will be brand new to Google’s algorithm as well.
