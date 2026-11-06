@@ -1,0 +1,5 @@
+# Resuming Campaigns After A Merchant Center Suspension
+
+_From: Google Ads QA - May 14 2026_
+
+[00:56:33] And then I should be able to hit you up in like the threads and just let you know that weekly Austin thread. I'll just be like, hey, I could DMs or something. You said Austin at growmyads.com Cool. Oh, you're going to have to add my domain now Yeah Sure, let me add you on here Cool, and then while you're doing that, I am going to just Haley, are you on? Yeah, I'm here Okay, so your GMC was suspended, once it's unsuspended, can you resume the same campaigns? Yeah, I just, I remember, this hasn't happened in a couple years I think last time I just started them fresh because they were paused for like three weeks. I know sometimes it's not good to pause in the non-pause campaign, so I'm just wondering. No, I mean you're fine. You were suspended, so there's nothing you can do. Yeah, just work with the campaigns that you had running. There's no reason in that case. You don't need to start over or anything like that. Just see if you can get the campaigns you had running going again.
